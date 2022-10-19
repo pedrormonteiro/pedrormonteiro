@@ -1,6 +1,6 @@
 ### Hey there!
 
-My name is Pedro Monteiro, I am a frontend developer at nmq digital, actively working with Vue, JS Vanilla, SASS, etc.
+My name is Pedro Monteiro, I am a frontend developer at Oberon, actively working with React, TypeScript, SASS, etc.
 In my free time I like to play games, read books and listen to music.
 
 Would you like to find me?
